@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Contact me:
+📮email:ld298563@gmail.com
 <!--
 **finalpi/finalpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
